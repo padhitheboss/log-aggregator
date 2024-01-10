@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	loglevel "example.com/log-aggregate/pkg/logLevel"
+	loglevel "example.com/log-aggregate/pkg/model/logLevel"
 	"example.com/log-aggregate/pkg/model/message"
 )
 
